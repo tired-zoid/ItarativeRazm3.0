@@ -1,0 +1,24 @@
+C:\Users\rahim\source\repos\ItarativeRazm\ItarativeRazm\bin\Debug\ItarativeRazm.exe.config
+C:\Users\rahim\source\repos\ItarativeRazm\ItarativeRazm\bin\Debug\ItarativeRazm.exe
+C:\Users\rahim\source\repos\ItarativeRazm\ItarativeRazm\bin\Debug\ItarativeRazm.pdb
+C:\Users\rahim\source\repos\ItarativeRazm\ItarativeRazm\obj\Debug\ItarativeRazm.csprojAssemblyReference.cache
+C:\Users\rahim\source\repos\ItarativeRazm\ItarativeRazm\obj\Debug\ItarativeRazm.exe
+C:\Users\rahim\source\repos\ItarativeRazm\ItarativeRazm\obj\Debug\ItarativeRazm.pdb
+C:\Users\rahim\Desktop\ItarativeRazm3.0\ItarativeRazm\bin\Debug\ItarativeRazm.exe.config
+C:\Users\rahim\Desktop\ItarativeRazm3.0\ItarativeRazm\bin\Debug\ItarativeRazm.exe
+C:\Users\rahim\Desktop\ItarativeRazm3.0\ItarativeRazm\bin\Debug\ItarativeRazm.pdb
+C:\Users\rahim\Desktop\ItarativeRazm3.0\ItarativeRazm\obj\Debug\ItarativeRazm.csprojAssemblyReference.cache
+C:\Users\rahim\Desktop\ItarativeRazm3.0\ItarativeRazm\obj\Debug\ItarativeRazm.exe
+C:\Users\rahim\Desktop\ItarativeRazm3.0\ItarativeRazm\obj\Debug\ItarativeRazm.pdb
+C:\Users\rahim\Desktop\2020 KAI\ВЕСЬ СУЗДАЛЬ\ItarativeRazm3.0\ItarativeRazm\bin\Debug\ItarativeRazm.exe.config
+C:\Users\rahim\Desktop\2020 KAI\ВЕСЬ СУЗДАЛЬ\ItarativeRazm3.0\ItarativeRazm\bin\Debug\ItarativeRazm.exe
+C:\Users\rahim\Desktop\2020 KAI\ВЕСЬ СУЗДАЛЬ\ItarativeRazm3.0\ItarativeRazm\bin\Debug\ItarativeRazm.pdb
+C:\Users\rahim\Desktop\2020 KAI\ВЕСЬ СУЗДАЛЬ\ItarativeRazm3.0\ItarativeRazm\obj\Debug\ItarativeRazm.csprojAssemblyReference.cache
+C:\Users\rahim\Desktop\2020 KAI\ВЕСЬ СУЗДАЛЬ\ItarativeRazm3.0\ItarativeRazm\obj\Debug\ItarativeRazm.exe
+C:\Users\rahim\Desktop\2020 KAI\ВЕСЬ СУЗДАЛЬ\ItarativeRazm3.0\ItarativeRazm\obj\Debug\ItarativeRazm.pdb
+C:\Users\rahim\Desktop\пэт github\ItarativeRazm3.0\ItarativeRazm\bin\Debug\ItarativeRazm.exe.config
+C:\Users\rahim\Desktop\пэт github\ItarativeRazm3.0\ItarativeRazm\bin\Debug\ItarativeRazm.exe
+C:\Users\rahim\Desktop\пэт github\ItarativeRazm3.0\ItarativeRazm\bin\Debug\ItarativeRazm.pdb
+C:\Users\rahim\Desktop\пэт github\ItarativeRazm3.0\ItarativeRazm\obj\Debug\ItarativeRazm.csprojAssemblyReference.cache
+C:\Users\rahim\Desktop\пэт github\ItarativeRazm3.0\ItarativeRazm\obj\Debug\ItarativeRazm.exe
+C:\Users\rahim\Desktop\пэт github\ItarativeRazm3.0\ItarativeRazm\obj\Debug\ItarativeRazm.pdb
